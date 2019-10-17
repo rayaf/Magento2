@@ -1,0 +1,16 @@
+bin/magento setup:install \
+--base-url=http://localhost:8000 \
+--db-host=localhost \
+--db-name=cm2 \
+--db-user=loja \
+--db-password=123 \
+--admin-firstname=admin \
+--admin-lastname=admin \
+--admin-email=ray@avanz.com \
+--admin-user=admin \
+--admin-password=admin123 \
+--language=pt_BR \
+--currency=BRL \
+--use-rewrites=1
+
+/admin_161o7m
